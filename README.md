@@ -1,2 +1,2 @@
-# interactive_TF
+# interactive_FT
 Interactive fourier tranform band filter
